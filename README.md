@@ -128,12 +128,15 @@ proof:https://github.com/Epic-Byte/NestCoinLibrary/commit/c49395d03a336334a3582a
  13. commit and proof: https://github.com/G-DAO/G-DAO/commit/937aed5463199b4bbb03f24130eea94928e3e144
      description: changed add stake holders function to be able to recieve roles for each stake holder   
      
+ 14. commit and proof: https://github.com/G-DAO/G-DAO/commit/e76ff6dd24c43c5b240e6e5648f3d97439c02fef
+     description: added more unit tests, test for  addcandidate, voote, enable,disable, beginvote, endvote, candidatevotes, public results, contract stake, addstaker, cleardata functions
+     
     
- 14. commit and proof: https://github.com/G-DAO/G-DAO/commit/1cddc35f78025b1de3146f96130186aa7e539da8
+ 15. commit and proof: https://github.com/G-DAO/G-DAO/commit/1cddc35f78025b1de3146f96130186aa7e539da8
     description: created repo template
 
 
- 15. commit and proof: https://github.com/G-DAO/G-DAO/commit/3d97650fda7ddf63b7f137c4b45d14e08b402589
+ 16. commit and proof: https://github.com/G-DAO/G-DAO/commit/3d97650fda7ddf63b7f137c4b45d14e08b402589
     description: added problem definition
     
  

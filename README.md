@@ -97,43 +97,43 @@ proof:https://github.com/Epic-Byte/NestCoinLibrary/commit/c49395d03a336334a3582a
     description: corrected contract errors.
     
     
- 7.commit and proof: https://github.com/G-DAO/G-DAO/commit/1c9bf9b7e4cb5aaeafadd5da870f9d5cb9a7c45a
+ 6.commit and proof: https://github.com/G-DAO/G-DAO/commit/1c9bf9b7e4cb5aaeafadd5da870f9d5cb9a7c45a
  description:added add candidate function to add a candidate for election
  
  
- 8. commit and proof: https://github.com/G-DAO/G-DAO/commit/0df88f236ae9dade8cc47a8ae1bf3a0e82c1438f
+ 7. commit and proof: https://github.com/G-DAO/G-DAO/commit/0df88f236ae9dade8cc47a8ae1bf3a0e82c1438f
   description: added hash to compare string values
   
   
- 10. commit and proof: https://github.com/G-DAO/G-DAO/commit/a3c065fa1b3601ce651e1fbe85313319c2b4dc02
+ 8. commit and proof: https://github.com/G-DAO/G-DAO/commit/a3c065fa1b3601ce651e1fbe85313319c2b4dc02
   description: added struct to represent a candidate, added arguments in addcandidate function to recieve ipfs link and position,changed logic for addcandidate, added   function to show winner of election,added event for the winner
   
   
- 11. commit and proof: https://github.com/G-DAO/G-DAO/commit/173fd9965b40a0c7cd6c44f63580ed8f12841c09
+ 9. commit and proof: https://github.com/G-DAO/G-DAO/commit/173fd9965b40a0c7cd6c44f63580ed8f12841c09
     description: wrote unit tests for the smart contract
     
     
- 12. commit and proof:  https://github.com/G-DAO/G-DAO/commit/903f6010b56b3c09a7e029f3a980239b1b69cc87
+ 10. commit and proof:  https://github.com/G-DAO/G-DAO/commit/903f6010b56b3c09a7e029f3a980239b1b69cc87
     description: corrected unit test errors
     
     
- 13. commit and proof: https://github.com/G-DAO/G-DAO/commit/e2765a6e7efc78fdc3e72edbb0a52fd16f6f310d
+ 11. commit and proof: https://github.com/G-DAO/G-DAO/commit/e2765a6e7efc78fdc3e72edbb0a52fd16f6f310d
      description: added function to clear contents of a contract so it can be reused for another election, added login functions for frontend to check if a user is a student      or stakeholder or chairman, added other stakeholders to represent stakeholders that are not students
      
      
- 14.commit and proof: https://github.com/G-DAO/G-DAO/commit/3c28360a5189ba06e306bc5c7cb0e22fdea5ef5d
+ 12.commit and proof: https://github.com/G-DAO/G-DAO/commit/3c28360a5189ba06e306bc5c7cb0e22fdea5ef5d
     describe: changed voting logic to allow one vote for multiple people at once, reduced size of login function for frontend to do the check in just one function
     
     
- 15. commit and proof: https://github.com/G-DAO/G-DAO/commit/937aed5463199b4bbb03f24130eea94928e3e144
+ 13. commit and proof: https://github.com/G-DAO/G-DAO/commit/937aed5463199b4bbb03f24130eea94928e3e144
      description: changed add stake holders function to be able to recieve roles for each stake holder   
      
     
- 16. commit and proof: https://github.com/G-DAO/G-DAO/commit/1cddc35f78025b1de3146f96130186aa7e539da8
+ 14. commit and proof: https://github.com/G-DAO/G-DAO/commit/1cddc35f78025b1de3146f96130186aa7e539da8
     description: created repo template
 
 
- 17. commit and proof: https://github.com/G-DAO/G-DAO/commit/3d97650fda7ddf63b7f137c4b45d14e08b402589
+ 15. commit and proof: https://github.com/G-DAO/G-DAO/commit/3d97650fda7ddf63b7f137c4b45d14e08b402589
     description: added problem definition
     
  

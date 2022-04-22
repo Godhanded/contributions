@@ -125,6 +125,10 @@ proof:https://github.com/Epic-Byte/NestCoinLibrary/commit/c49395d03a336334a3582a
     describe: changed voting logic to allow one vote for multiple people at once, reduced size of login function for frontend to do the check in just one function
     
     
+ 15. commit and proof: https://github.com/G-DAO/G-DAO/commit/937aed5463199b4bbb03f24130eea94928e3e144
+     description: changed add stake holders function to be able to recieve roles for each stake holder   
+     
+    
  16. commit and proof: https://github.com/G-DAO/G-DAO/commit/1cddc35f78025b1de3146f96130186aa7e539da8
     description: created repo template
 

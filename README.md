@@ -1,9 +1,9 @@
-# contributions
+## contributions
 links to contributions in task 1,2,3
 
 
 
-# task 1
+## task 1
 
 
 1. commit: https://github.com/Epic-Byte/Nestcoin-Manager/commit/6a4c141a1e4a50612e4b8f482847c37b26dbd6cb
@@ -33,7 +33,7 @@ links to contributions in task 1,2,3
    
    
    
-# task 2
+## task 2
 
 
 1. commit:  https://github.com/Epic-Byte/Library/commit/c15b8a96342df9e50f458d58230f429512e52d0c
@@ -73,7 +73,8 @@ proof:https://github.com/Epic-Byte/NestCoinLibrary/commit/c49395d03a336334a3582a
   
   
   
- # task 3
+ ## task 3
+# Repo Url- https://github.com/G-DAO/G-DAO/tree/main
  
  
  1. commit and proof: https://github.com/G-DAO/G-DAO/commit/5d960101a13d1c25d189bebdd4ed6593d53a1653
@@ -140,7 +141,7 @@ proof:https://github.com/Epic-Byte/NestCoinLibrary/commit/c49395d03a336334a3582a
     description: added problem definition
     
  
- # PLEASE NOTE
+ ## PLEASE NOTE
  
  if you've noticed, for TASK ! AND TASK 2 alone there are two different repos for some of the proof and commits(NOT ALL), the Reason is that my team made use of a repo then had one person push all to a new repo for presenting which is the repo link in the proof sections of this readme.md file. So sorry for any inconvenience this may or may not have caused, we werent aware(As team Lead My Apologies are given).
  
